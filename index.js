@@ -9,5 +9,5 @@ const Neighborhood = (() => {
       this.name = name;
       store.neighborhoods.push(this);
     }
-    
   }
+}
